@@ -4,4 +4,9 @@ Web application developed in React, which consumes data from the [Rick and Morty
 
 It contains a paginator, which was custom coded, without using react-paginate.
 
-[Live preview](https://rojaslabs.github.io/rick-and-morty-api)
+## Live preview and screenshots
+
+:point_right: [Live preview](https://rojaslabs.github.io/rick-and-morty-api)
+
+![rick-and-morty-api-preview](https://github.com/rojaslabs/rick-and-morty-api/blob/main/rick-and-morty-api-preview.png?raw=true)
+
