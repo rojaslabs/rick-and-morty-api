@@ -15,7 +15,7 @@ function App() {
 
         <div className='container p-5'>
           <Routes>
-            <Route path='/' element={<Characters />} />
+            <Route index path='/' element={<Characters />} />
             <Route path='character/:id' element={<Character/>} />
           </Routes>
           <div className='text-center py-5'><a className='text-decoration-none' href='https://github.com/rojaslabs/rick-and-morty-api'>github.com/rojaslabs/rick-and-morty-api</a></div>
