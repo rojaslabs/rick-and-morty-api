@@ -1,6 +1,6 @@
 # rick-and-morty-api
 
-Web application developed in React, which consumes data from the Rick and Morty public API.
+Web application developed in React, which consumes data from the [Rick and Morty public API](https://rickandmortyapi.com).
 
 It contains a paginator, which was custom coded, without using react-paginate.
 
