@@ -20,7 +20,7 @@ const Character = () => {
     let navigate = useNavigate()
 
     const backToCharacters = () => {
-        navigate('/')
+        navigate('/rick-and-morty-api')
     }
 
     return (
