@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.badge {
+  font-size: 1em;
+}
+
+.container {
+  justify-content: center !important;
+}
+
+.dot {
+  font-size: 30px;
+  vertical-align: sub;
+  margin-left: 5px;
+}
+
+.navbar-brand{
+  font-weight: 800;
+}
+
+h1, h2 {
+  font-weight: 800
+}
+
+.card-title {
+  font-weight: 800;
+}
+
+.custom-paginator {
+  margin: 50px 0 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.custom-paginator button {
+  border: none;
+  background-color: transparent;
+  display: inline-block;
+  min-width: 25px;
+  margin-bottom: 10px;
+}
+
+.custom-paginator button:hover {
+  color: #0D6EFD;
+}
+
+.custom-paginator button:disabled {
+  color: #0D6EFD;
+}
+
+.disabled {
+  opacity: 0.2;
+  pointer-events: none;
+}
